@@ -1,3 +1,5 @@
+NAME: Obembe OluwaTimilehin Daniel
+Matric Number: 25/17821
 
 -- Student Attendance Management System
 
