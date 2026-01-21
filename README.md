@@ -87,3 +87,17 @@ mark_attendance("John", "Present")
 mark_attendance("Mary", "Present")
 
 display_attendance(attendance_records)
+
+--5. Testing
+The system was tested using different student names and attendance statuses to ensure that attendance records were displayed correctly without errors.
+
+
+--6. Deployment
+After successful testing, the project was deployed by pushing the source code to a GitHub repository using Git for version control.
+
+
+    Conclusion
+The Student Attendance Management System was successfully developed by following all stages of the Software Development Life Cycle. The project meets its objectives and demonstrates the application of SDLC principles in software development.
+
+
+AUTHOR: TIMILEHIN.
